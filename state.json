@@ -1,0 +1,21 @@
+{
+  "version": 0,
+  "files": {
+    "core.py": {
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null
+    },
+    "utils.py": {
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null
+    },
+    "cli.py": {
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null
+    }
+  },
+  "last_updated": "2026-03-28T17:45:19.563218"
+}

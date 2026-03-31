@@ -1,21 +1,24 @@
 {
-  "version": 0,
+  "version": 3,
   "files": {
     "core.py": {
-      "status": "pending",
+      "status": "completed",
       "attempts": 0,
-      "last_error": null
+      "last_error": null,
+      "failures": 1
     },
     "utils.py": {
-      "status": "pending",
+      "status": "completed",
       "attempts": 0,
-      "last_error": null
+      "last_error": null,
+      "failures": 1
     },
     "cli.py": {
-      "status": "pending",
+      "status": "completed",
       "attempts": 0,
-      "last_error": null
+      "last_error": null,
+      "failures": 1
     }
   },
-  "last_updated": "2026-03-28T17:59:51.118510"
+  "last_updated": "2026-03-31T13:42:38.303660"
 }
